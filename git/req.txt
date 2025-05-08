@@ -1,0 +1,13 @@
+PyPDF2
+langchain
+langchain_community
+pypdf
+unstructured
+pdfminer.six
+pdf2image
+pillow_heif
+unstructured_inference
+pikepdf
+pi_heif
+langchain_openai
+langchain_core
